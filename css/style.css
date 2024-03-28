@@ -121,8 +121,7 @@ button.btn {
   padding: 8px 28px;
   border-radius: 30px;
   font-weight: 500;
-  font-size: 18px;
-  line-height: normal;
+  font-size: 14px;
   background: var(--btnBg);
   color: #fff;
   transition: 0.3s ease-in-out;
