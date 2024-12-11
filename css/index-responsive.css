@@ -1,0 +1,6 @@
+@media screen and (max-width:768px) {
+  .testimonial-content-part {
+    display: flex;
+    flex-direction: column;
+}
+}
